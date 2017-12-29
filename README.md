@@ -1,6 +1,9 @@
 # Aragorn
 > Calculator and analyzer of complex system
 
+
+![](./figs/demos.png)
+
 ## Features
 + Dynamic equation calculation supported
 + With a home-made/integrated ODE calculator
