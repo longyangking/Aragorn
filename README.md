@@ -3,7 +3,7 @@
 
 ## Features
 + Dynamic equation calculation supported
-+ With a home-made ODE calculator
++ With a home-made/integrated ODE calculator
 
 ## Status
 Working on it

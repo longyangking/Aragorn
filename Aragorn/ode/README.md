@@ -1,2 +1,6 @@
 # ODE
-> Home-made Ordinary Differentiate Equations Calculator
+> Home-made/Integrated Ordinary Differentiate Equations Calculator
+
+## Features
++ Home-made version
++ Scipy/Numpy based version
