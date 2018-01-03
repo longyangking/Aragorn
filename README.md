@@ -1,7 +1,6 @@
 # Aragorn
 > Calculator and analyzer of complex system
 
-
 ![](./figs/demos.png)
 
 ## Features
@@ -10,6 +9,9 @@
 
 ## Status
 Working on it
+
+## Requirements
++ Numpy, Scipy, Matplotlib
 
 ## E-mail
 longyang_123@yeah.net  
